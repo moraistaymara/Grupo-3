@@ -5,14 +5,14 @@ desenvolvimento de rede de computador virtualizada
 # Configuração de Interface de Rede
 
 
-<p><center> Tabela 1: Definições da rede interna grupo 6, 924</center></p>
+<p><center> Tabela 1: Definições da rede interna grupo 3, 924</center></p>
 
 | DESCRIÇÃO   | IP             |
 |:------------|:---------------|
 | rede        | 10.9.24.0      |
 | máscara     | 255.255.255.0  |
 | Gateway     | 10.9.24.105    |
-| Broadcast   | 10.9.24.255    |
+| Broadcast   | 10.9.24.255/24 |
 | NameServer1 | 10.9.24.216    |
 | NameServer2 | 10.9.24.217    |
 | Samba       | 10.9.24.108    |
@@ -25,9 +25,9 @@ Os nomes das máquinas ou dispositivos que serão configuradas no DNS deverão s
 
 |      Apelido      |               NOME               |
 |:------------------|:---------------------------------|
-| gateway (gw)      | gw.grupo6.turma924.ifalarapiraca.local    |
-| nameserver1 (ns1) | ns1.grupo6.turma924.ifalarapiraca.local   |
-| nameserver2 (ns2) | ns2.grupo6.turma924.ifalarapiraca.local   |
-| hostsamba   (hs1) | samba.grupo6.turma924.ifalarapiraca.local |
+| gateway (gw)      | gw.grupo3.turma924.ifalarapiraca.local    |
+| nameserver1 (ns1) | ns1.grupo3.turma924.ifalarapiraca.local   |
+| nameserver2 (ns2) | ns2.grupo3.turma924.ifalarapiraca.local   |
+| hostsamba   (hs1) | samba.grupo3.turma924.ifalarapiraca.local |
 
-- [Clique Aqui Para ver a Planilha detalhada](https://docs.google.com/spreadsheets/d/14w_kkyJeZiC50_NOaJPD21q7aiylo4qtkw7SilrcD3U/edit?hl=pt-br#gid=0)
+
