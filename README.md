@@ -18,10 +18,7 @@ desenvolvimento de rede de computador virtualizada
 | Samba       | 10.9.24.108    |
 
 
-
-Os nomes das máquinas ou dispositivos que serão configuradas no DNS deverão ser nomeados de acordo com o domínio. A Tabela 2 apresenta os nomes das máquinas para o domínio de exemplo.
-
-<p><center> Tabela 2: Definições do domínio: <b>name.grupoX.turma.ifalarapiraca.local</b></center></p>
+<p><center> Tabela 2: Definições do domínio: <b>name.grupo3.turma.ifalarapiraca.local</b></center></p>
 
 |      Apelido      |               NOME               |
 |:------------------|:---------------------------------|
