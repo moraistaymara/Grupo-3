@@ -31,3 +31,4 @@ Os nomes das máquinas ou dispositivos que serão configuradas no DNS deverão s
 | hostsamba   (hs1) | samba.grupo3.turma924.ifalarapiraca.local |
 
 
+- [Clique Aqui Para ver a Planilha detalhada] (https://docs.google.com/spreadsheets/d/1TT7-cRM06TOWbBzxfKRg-lFwDa3uP4gXOLMfidnszJw/edit#gid=680415071)
