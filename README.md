@@ -1,7 +1,7 @@
 # Instituto Federal de Alagoas - Campus Arapiraca
 ### Prof. Alaelson Jatobá
 
-### Alunos
+### Grupo 3 - Integrantes
 * Alice Julia;
 * Angelina Oliveira;
 * Taymara Morais;
